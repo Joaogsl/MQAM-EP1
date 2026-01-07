@@ -1,4 +1,4 @@
-# Predição Salarial de Profissionais de Dados 📊
+# Predição Salarial de Profissionais de Dados
 
 Este projeto aplica modelos de **Regressão Linear Múltipla** para investigar e prever salários anuais de profissionais da área de dados, identificando os principais fatores que influenciam a remuneração global.
 Desenvolvido como parte da disciplina de **Métodos Quantitativos para Análise Multivariada (MQAM)** na EACH-USP.
@@ -30,6 +30,6 @@ O modelo atendeu aos pressupostos da regressão linear:
 - ✅ **Normalidade dos Resíduos:** Confirmada visualmente por Histograma e QQ-Plot.
 - ✅ **Homocedasticidade:** Confirmada pela dispersão aleatória dos resíduos.
 
-## 👥 Autores
+##  Autores
 * **João Gabriel de Senna Lamolha**
 * Gustavo Pompermayer Fulanetti Silva
